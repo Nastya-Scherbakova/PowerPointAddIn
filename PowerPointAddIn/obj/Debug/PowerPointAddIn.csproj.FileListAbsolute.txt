@@ -1,0 +1,12 @@
+E:\VS\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.dll
+E:\VS\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.pdb
+E:\VS\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.dll.manifest
+E:\VS\PowerPointAddIn\PowerPointAddIn\bin\Debug\PowerPointAddIn.vsto
+E:\VS\PowerPointAddIn\PowerPointAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+E:\VS\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.csprojResolveAssemblyReference.cache
+E:\VS\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.Properties.Resources.resources
+E:\VS\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.csproj.GenerateResource.Cache
+E:\VS\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.csproj.CoreCompileInputs.cache
+E:\VS\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.dll
+E:\VS\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.pdb
+E:\VS\PowerPointAddIn\PowerPointAddIn\obj\Debug\PowerPointAddIn.Ribbon.resources
